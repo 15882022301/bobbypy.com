@@ -25,7 +25,7 @@ SECRET_KEY = 'vfl2u!%k+sr_jrp8e+fsnj(^%%21f#tfu^%d4so&bn=y^55wk+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.bobbypy.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.bobbypy.info']
 
 
 # Application definition
@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'Django_1',
         'USER': 'root',
-        'PASSWORD': '123456',
+        'PASSWORD': '199618',
         'HOST': 'LOCALHOST',
         'POST': '3306',
     }
